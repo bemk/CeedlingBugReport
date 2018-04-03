@@ -1,1 +1,4 @@
-build/
+build/release
+build/test
+build/logs
+build/temp
